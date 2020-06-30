@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.scoreBoard {
+    font-weight: 700;
+    color: red;
+}
+
+.vs {
+    color: red;
+}
